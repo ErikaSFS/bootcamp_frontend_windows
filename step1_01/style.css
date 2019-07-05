@@ -1,0 +1,48 @@
+/* 1. */
+h1{
+color:blue;
+}
+
+/* 2. */
+body{
+color: red;
+font-family: "Monospace";
+font: 1.2em sans-serif;
+font-style: bold;
+background-color: white;
+background-image:yellow;
+border-style: dotted;
+border-width: 5px;
+}
+
+/* 3. */
+p{
+background-color: yellow;
+}
+
+/* 4. */
+img{
+border-style:dashed;
+border-width:5px;
+margin-left:300px;
+}
+
+/* 5. */
+ul{
+background-color: yellow;
+padding:5px;
+margin-left: 35px;
+}
+
+/* 6. */
+ol{
+background-color: yellow;
+padding:5px;
+margin-left: 35px;
+}
+
+/* 7. */
+footer{
+text-align: left;
+padding:5px;
+}
